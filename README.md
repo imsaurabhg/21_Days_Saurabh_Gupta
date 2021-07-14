@@ -5,4 +5,6 @@ Day 3: Learned Different Funtions in Python Eg: Extend(), Append(), Count(), abs
 Day 4: Leaned abt User difined functions and return statement and use of dictionaries in python.
 Day 5: Studied the if , elseif and else function. Also Studied while loop 
 Day 6: Leaned abot 2 dimension list and for loops
-Day 7: learned how to access elements of @ dimension loops and also nested loop.
+Day 7: learned how to access elements of 2 dimension loops and also nested loop.
+Day 8: Learned about use of nested if statement and use of # character for commenting and for disabling some code lines.
+Day 9: Learned about Try -Except function in order to point out Invalid Inputs. Also Coded a program for Making a calculator.
